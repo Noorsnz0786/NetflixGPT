@@ -1,5 +1,16 @@
 ## NetflixGPT
 
+- created the react app using vite
+- configured the Tailwind into my project
+- Header
+- Routing of App
+- Login  form
+- Sign up form
+- Form Validation 
+- useRef Hook
+- 
+
+
 # Features
 - Login / Sign up
     - Sign in and Sign up form
